@@ -1,4 +1,4 @@
-# python---automation
+# python automation
 Scripts d'automatisation Python appris en autodidacte
 en parallèle de ma progression Data Analyst / Data Engineer.
 
